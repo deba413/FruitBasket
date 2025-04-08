@@ -23,3 +23,4 @@ export default function MainTabNavigator() {
     </Tab.Navigator>
   );
 }
+// ihforwi?zzz
